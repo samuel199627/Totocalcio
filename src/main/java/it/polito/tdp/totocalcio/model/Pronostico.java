@@ -4,7 +4,8 @@ import java.util.ArrayList;
 
 import java.util.List;
 
-//e' la classe piu' alta
+//e' la classe piu' alta e la prima che viene chiamata e in cui inseriamo il pronostico
+//e quella da cui bisogna chiamare il metodo che genera tutti i possibili risultati
 
 /*
  ## Traccia
