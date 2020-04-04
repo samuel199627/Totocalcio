@@ -1,6 +1,17 @@
 package it.polito.tdp.totocalcio.model;
 
 import java.util.HashSet;
+
+/*
+ 
+ ## Traccia
+
+	Definiamo alcune classi con cui lavorare:
+
+	PronosticoPartita`: contiene un singolo pronostico, che è un `Set` di `RisultatoPartita` (es. `{ 1, X }`)
+
+ 
+ */
 import java.util.Set;
 
 public class PronosticoPartita {

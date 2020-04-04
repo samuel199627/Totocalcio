@@ -1,7 +1,18 @@
 package it.polito.tdp.totocalcio.model;
 
 import java.util.ArrayList;
+
 import java.util.List;
+
+//e' la classe piu' alta
+
+/*
+ ## Traccia
+
+	Definiamo alcune classi con cui lavorare:
+
+	Pronostico`: contiene una sequenza di `N` oggetti `PronosticoPartita`  
+ */
 
 public class Pronostico {
 	private List<PronosticoPartita> pronostici = new ArrayList<>() ;
